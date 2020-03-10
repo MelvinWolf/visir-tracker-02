@@ -1,11 +1,11 @@
 # Practical Assignment 2
 Please put your name (or names if you work in a group) here:  
-**Name**: .......
+**Name**: Melvin Wolf and Osama-al-Wardi
 ## Problem 2.1
 ### Feature Extraction (Points 30)
 1. Fork the current repository
 2. Read the OpenCV documentation about the Good-Features-to-Track: [Shi-Tomasi Corner Detector](https://docs.opencv.org/master/d4/d8c/tutorial_py_shi_tomasi.html)  
-3. Implement the feature detection and extraction using the ```cv.goodFeaturesToTrack()``` method. Detect features every 300-th frame and draw them on every frame from web-camera. Please extract between 50 and 200 features.
+3. Implement the feature detection and extraction using the ```cv.goodFeaturesToTrack()``` method. Detect features every 300-th frame and draw them on every frame from web-camera. Please extract between 50 and 200 features. (We extract 50)
 
 ## Problem 2.2
 ### Sparse Optical Frlow Estimation (Points 50)
